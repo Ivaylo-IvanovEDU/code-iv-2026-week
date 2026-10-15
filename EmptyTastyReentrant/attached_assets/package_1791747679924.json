@@ -1,0 +1,15 @@
+{
+  "name": "codeweek-escape-room",
+  "version": "1.0.0",
+  "description": "CodeWeek 2026 - Уеб програмиране Escape Room",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "author": "инж. Ивайло Иванов",
+  "license": "MIT"
+}
